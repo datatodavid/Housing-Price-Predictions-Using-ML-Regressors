@@ -1,6 +1,6 @@
 # Machine Learning & Detecting Fraudulent Healthcare Providers
 
-## [Blog Write-up WIP]() | [Kaggle]() | [David Gottlieb](https://www.linkedin.com/in/david-gottlieb-a351bb3b/) 
+## [David Gottlieb](https://www.linkedin.com/in/david-gottlieb-a351bb3b/) 
 
 -------------------------------
 
