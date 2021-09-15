@@ -1,4 +1,4 @@
-# Machine Learning & Detecting Fraudulent Healthcare Providers
+# Using HyperTransformation Tuning with Machine Learning Regressors to Predict Housing Prices
 
 ## [David Gottlieb](https://www.linkedin.com/in/david-gottlieb-a351bb3b/) 
 
@@ -62,6 +62,7 @@ VI. HyperTransformation Tuning 4: Dimension Reduction
 VII. Does HyperParameter Tuning Still Have Value?
  - HyperParameter Tuning vs. HyperTransformation Tuning Conclusions
 VIII. Statistical Analysis
+ - Did HyperTransformation Tuning + Ensembling Work?
 
 --------------------------------
 
